@@ -1,3 +1,3 @@
 # FirstWebsite
 simple HTML CSS website
-pic.png
+https://github.com/samyakkumar1/FirstWebsite/blob/main/pic.png
