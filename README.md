@@ -1,4 +1,4 @@
-# FirstWebsite
+# Simple HTML CSS Website
 simple HTML CSS website
 
 Create your very first website using HTML5, CSS3
